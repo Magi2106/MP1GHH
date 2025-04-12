@@ -1,3 +1,4 @@
-# Data Ingestion and Wrangling Project
+# MP1 
 
-This project demonstrates data ingestion from multiple formats, cleaning, anonymization, and visualization.
+Dette projekt viser, hvordan man kan hente data fra forskellige filformater, rense og anonymisere dem, samt visualisere resultaterne
+
